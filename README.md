@@ -44,9 +44,8 @@ To get a local copy up and running, follow these steps.
    py app.py
    ```
 
-<details>
-    <summary>Contact Me</summary>
-    * [Instagram](https://www.instagram.com/krishchatterjie/)
-    * [LinkedIn](https://www.linkedin.com/in/krish-chatterjie-3119661b6/)
-    * chatterjie.krish@gmail.com
-</details>
+## Contact Me
+
+* [Instagram](https://www.instagram.com/krishchatterjie/)
+* [LinkedIn](https://www.linkedin.com/in/krish-chatterjie-3119661b6/)
+* chatterjie.krish@gmail.com

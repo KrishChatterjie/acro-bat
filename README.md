@@ -19,8 +19,6 @@ Here's what's different from Flappy Bird:
 
 
 ### Built With
-
-These are the languages and framework used to build this website:
 * [Pygame](https://www.pygame.org/docs/)
 
 ## Getting Started

@@ -4,8 +4,8 @@ The most aesthetic flappy bird you'll ever see.
 
 ## About The Project
 
-![Start SS](https://github.com/KrishChatterjie/acro-bat/blob/master/examples/img/start.png)
-![Game SS](https://github.com/KrishChatterjie/acro-bat/blob/master/examples/img/game1.png)
+![Start SS](https://github.com/KrishChatterjie/acro-bat/blob/master/examples/start.png)
+![Game SS](https://github.com/KrishChatterjie/acro-bat/blob/master/examples/game1.png)
 ![Game SS](https://github.com/KrishChatterjie/acro-bat/blob/master/examples/game2.png)
 ![End SS](https://github.com/KrishChatterjie/acro-bat/blob/master/examples/end.png)
 
